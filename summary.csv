@@ -1,0 +1,7 @@
+Metric,Value
+Total Orders,9994
+Total Sales,2297200.8603
+Total Profit,286397.0217
+Top 5 Cities,"{'New York City': 915, 'Los Angeles': 747, 'Philadelphia': 537, 'San Francisco': 510, 'Seattle': 428}"
+Top 5 Products,"{'Staple envelope': 48, 'Staples': 46, 'Easy-staple paper': 46, 'Avery Non-Stick Binders': 20, 'Staples in misc. colors': 19}"
+Sales by Region,"{'Central': 501239.8908, 'East': 678781.24, 'South': 391721.905, 'West': 725457.8245}"

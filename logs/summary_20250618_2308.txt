@@ -1,0 +1,4 @@
+ Log created successfullyTotal Orders: 9994
+Total Sales: 2297200.8603
+Total Profit: 286397.0217
+Top 5 Cities: {'New York City': 915, 'Los Angeles': 747, 'Philadelphia': 537, 'San Francisco': 510, 'Seattle': 428}
