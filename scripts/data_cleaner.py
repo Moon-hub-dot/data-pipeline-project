@@ -4,7 +4,7 @@ from datetime import datetime
 import csv
 
 # Load data
-file_path = "C:/Users/Admin/Documents/data_pipeline_project/raw_data/sales_data.csv"
+file_path = "raw_data/sales_data.csv"
 df = pd.read_csv(file_path, encoding='latin1')
 
 print(df.head())
